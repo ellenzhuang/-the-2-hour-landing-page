@@ -1,2 +1,3 @@
-# -the-2-hour-landing-page
+# The-2-hour-landing-page
+
 https://lewagon.github.io/landing/
