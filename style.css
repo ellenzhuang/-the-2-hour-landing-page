@@ -68,3 +68,7 @@ a:hover {
 #footer a:hover {
   color: white;
 }
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
